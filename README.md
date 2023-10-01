@@ -3,7 +3,7 @@
 ## Description
 This is a backend project that uses an ORM and sequilize to create a database and interact with it. It is a simple ecommerce backend that allows you to create, read, update, and delete products, categories, and tags.
 ## Demo Video
-[Click Me!]()
+[Click Me!](https://youtu.be/-njprYQpDBw)
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
